@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="web_client_id">568942089593-c67a9jjcmk5q5j2cuqat0ep4a8trc576.apps.googleusercontent.com</string>
+
+    <string name="facebook_application_id" translatable="false">700390393663759</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb700390393663759</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button0">0</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="buttonAdd">+</string>
+    <string name="buttonSubtract">-</string>
+    <string name="buttonMultiply">*</string>
+    <string name="buttonDivide">/</string>
+    <string name="buttonToggleSign">+/-</string>
+    <string name="buttonDecimalPoint">.</string>
+    <string name="buttonEquals">=</string>
+    <string name="buttonClear">C</string>
+    <string name="buttonPercent">%</string>
+    <string name="buttonSine">sin</string>
+    <string name="buttonCosine">cos</string>
+    <string name="buttonTangent">tan</string>
+
+</resources>
